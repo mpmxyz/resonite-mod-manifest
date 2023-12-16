@@ -1,0 +1,22 @@
+{
+  "name": "SampleMod",
+  "id": "mpmxyz.SampleMod",
+  "description": "A Mod for Resonite that just adds a \"Hello World!\" log entry whenever you click a button.",
+  "category": "misc",
+  "sourceLocation": "https://github.com/mpmxyz/ResoniteSampleMod",
+  "website": "https://github.com/mpmxyz/ResoniteSampleMod",
+  "versions": {
+    "1.1.1": {
+      "changelog": "Fixed: individual files of the RML flavor weren't part of the release.",
+      "releaseUrl": "https://github.com/mpmxyz/ResoniteSampleMod/releases/tag/v1.1.1",
+      "artifacts": [
+        {
+          "url": "https://github.com/mpmxyz/ResoniteSampleMod/releases/download/v1.1.1/mpmxyz.SampleMod.ResoniteModLoader.dll",
+          "filename": "mpmxyz.SampleMod.ResoniteModLoader.dll",
+          "sha256": "7ea463bef40ad5aa8626433b70c5247cbdfd1aa445c30fd757d9f9b82d262c12",
+          "installLocation": "rml_mods"
+        }
+      ]
+    }
+  }
+}
