@@ -1,0 +1,22 @@
+{
+  "name": "UIXDialogBuilder",
+  "id": "mpmxyz.UIXDialogBuilder",
+  "description": "A Mod for Resonite that just adds a \"Hello World!\" log entry whenever you click a button.",
+  "category": "misc",
+  "sourceLocation": "https://github.com/mpmxyz/UIXDialogBuilder",
+  "website": "https://github.com/mpmxyz/UIXDialogBuilder",
+  "versions": {
+    "0.1.0": {
+      "changelog": "- missing documentation",
+      "releaseUrl": "https://github.com/mpmxyz/UIXDialogBuilder/releases/tag/v0.1.0",
+      "artifacts": [
+        {
+          "url": "https://github.com/mpmxyz/UIXDialogBuilder/releases/download/v0.1.0/mpmxyz.UIXDialogBuilder.ResoniteModLoader.dll",
+          "filename": "mpmxyz.UIXDialogBuilder.ResoniteModLoader.dll",
+          "sha256": "4c47f7a34f7752c131d1d6400708f69e8c609a69e35ae30eeaa6de0ea7f8d60d",
+          "installLocation": "rml_mods"
+        }
+      ]
+    }
+  }
+}
