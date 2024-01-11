@@ -1,0 +1,22 @@
+{
+  "name": "SampleMod",
+  "id": "mpmxyz.SampleMod",
+  "description": "A Mod for Resonite that just adds a \"Hello World!\" log entry whenever you click a button.",
+  "category": "misc",
+  "sourceLocation": "https://github.com/mpmxyz/ResoniteSampleMod",
+  "website": "https://github.com/mpmxyz/ResoniteSampleMod",
+  "versions": {
+    "3.0.0": {
+      "changelog": "Cached download from Steam removes the need to keep a private Resonite repository.",
+      "releaseUrl": "https://github.com/mpmxyz/ResoniteSampleMod/releases/tag/v3.0.0",
+      "artifacts": [
+        {
+          "url": "https://github.com/mpmxyz/ResoniteSampleMod/releases/download/v3.0.0/mpmxyz.SampleMod.ResoniteModLoader.dll",
+          "filename": "mpmxyz.SampleMod.ResoniteModLoader.dll",
+          "sha256": "0235ba50e5989843e0570150253f3322520b8a82c1a11b8c6903485903080848",
+          "installLocation": "rml_mods"
+        }
+      ]
+    }
+  }
+}
