@@ -1,7 +1,8 @@
 {
 	"author": {
-		"AuthorName": {
-			"url": "https://github.com/resonite-modding-group"
+		"ExampleAuthor": {
+			"url": "https://github.com/resonite-modding-group",
+			"icon": "https://github.com/resonite-modding-group.png"
 		}
 	}
 }

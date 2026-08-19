@@ -1,0 +1,61 @@
+{
+    "name": "DefaultToolOverride",
+    "id": "me.art0007i.DefaultToolOverride",
+    "description": "Gives you full control over the desktop number row tool keybinds",
+    "category": "Controls",
+    "sourceLocation": "https://github.com/art0007i/DefaultToolOverride",
+    "versions": {
+        "1.0.4": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "d1931db626e12e7f0bac541da554fa85117d8fbe22684e724dbd0b5b7f5a07e3"
+                }
+            ],
+            "changelog": "Add option for modifier key."
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
+                }
+            ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.2/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "4e5e2c1ac7a8676095599671228990abcda3718d006e0e0af05c2804234ff499"
+                }
+            ],
+            "changelog": "Fix \"None\" override type not working correctly."
+        },
+        "1.0.5": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.5/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "21a446daad817537ced6eba36220b1e8ec2ed555a9a8eafb678c073517079047"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "1.0.6": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.6/DefaultToolOverride.dll",
+                    "sha256": "0055b7018a3bd3f6efba4634ec96c37901a31d1a7f96b53586053c35f3ab6d02"
+                }
+            ]
+        }
+    }
+}
