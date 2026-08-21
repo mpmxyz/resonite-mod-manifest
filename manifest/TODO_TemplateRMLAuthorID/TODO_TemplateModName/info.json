@@ -1,0 +1,18 @@
+{
+  "name": "TODO_TemplateModName",
+  "id": "TODO_TemplateRMLAuthorID.TODO_TemplateModName",
+  "description": "TODO_Description",
+  "category": "TODO_Category",
+  "sourceLocation": "https://github.com/TODO_TemplateAuthor/TODO_TemplateModName/",
+  "versions": {
+    "1.2.3": {
+      "releaseUrl": "https://github.com/TODO_TemplateAuthor/TODO_TemplateModName/releases/tag/v1.2.3-Test",
+      "artifacts": [
+        {
+          "url": "https://github.com/TODO_TemplateAuthor/TODO_TemplateModName/releases/download/v1.2.3-Test/TODO_TemplateModName.dll",
+          "sha256": "dummy"
+        }
+      ]
+    }
+  }
+}
