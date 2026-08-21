@@ -13,6 +13,15 @@
           "sha256": "dummy"
         }
       ]
+    },
+    "1.2.4": {
+      "releaseUrl": "https://github.com/TODO_TemplateAuthor/TODO_TemplateModName/releases/tag/v1.2.4-Test",
+      "artifacts": [
+        {
+          "url": "https://github.com/TODO_TemplateAuthor/TODO_TemplateModName/releases/download/v1.2.4-Test/TODO_TemplateModName.dll",
+          "sha256": "dummy"
+        }
+      ]
     }
   }
 }
