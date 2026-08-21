@@ -1,0 +1,18 @@
+{
+  "name": "TestMod",
+  "id": "mpmxyz.TestMod",
+  "description": "TODO_Description",
+  "category": "TODO_Category",
+  "sourceLocation": "https://github.com/mpmxyz/TestMod/",
+  "versions": {
+    "0.0.0": {
+      "releaseUrl": "https://github.com/mpmxyz/TestMod/releases/tag/v0.0.0-2026.8.12.1196",
+      "artifacts": [
+        {
+          "url": "https://github.com/mpmxyz/TestMod/releases/download/v0.0.0-2026.8.12.1196/TestMod.dll",
+          "sha256": "8d3066fdd0a8afd5a17b7b58c063f6985d8ddbe68f0dd42c625bccaac68187fb"
+        }
+      ]
+    }
+  }
+}
