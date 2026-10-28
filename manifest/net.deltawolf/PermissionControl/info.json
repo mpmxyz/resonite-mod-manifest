@@ -1,0 +1,44 @@
+{
+	"name": "PermissionControl",
+	"id": "net.deltawolf.PermissionControl",
+	"description": "Allows editing permission overrides individually, even for users not in a session",
+	"category": "Dashboard",
+	"sourceLocation": "https://github.com/XDelta/PermissionControl",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.1.0/PermissionControl.dll",
+				"sha256": "2fb7330f38faf1b563af4b77a15493efd0bad9efc6c85d6b23fc3eb29bd86d0b"
+			}]
+		},
+		"2.0.3": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.3",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.3/PermissionControl.dll",
+				"sha256": "ef4084905c54cb13793ac98f07da899cc0167ce60742f86ac88a7c0a5cd4d6cb"
+			}]
+		},
+		"2.0.2": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.2",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.2/PermissionControl.dll",
+				"sha256": "86a8a549ed6d01715474337df575292fde94b594bb64b20cdad10eaea8858074"
+			}]
+		},
+		"2.0.1": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.1/PermissionControl.dll",
+				"sha256": "080f09881336dd324ccb0cc4b5fe0484b192a88a994cf9d40564bd7d13bc8cc6"
+			}]
+		},
+		"2.0.0": {
+			"releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.0/PermissionControl.dll",
+				"sha256": "575a1a04fe0aaac21b6a310924eb8a1b76f251a340b6f892633c9a2d57481706"
+			}]
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+    "name": "LogCleaner",
+    "id": "me.art0007i.LogCleaner",
+    "description": "Omits certain information from your logs to make them more readable.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/art0007i/LogCleaner",
+    "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll",
+                    "filename": "LogCleaner.dll",
+                    "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861"
+                }
+            ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.1/LogCleaner.dll",
+                    "filename": "LogCleaner.dll",
+                    "sha256": "bc223dd143de4c66c0f4c5bf25aeb6bcd41cbeab6fc2274e20b1212a72c7cef8"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "1.1.2": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.2/LogCleaner.dll",
+                    "sha256": "d488e2768ebd95e7b80d0e1f987435611d4254183730f987bfe40e15e75babf0"
+                }
+            ],
+            "changelog": "Removes BroadcastSession spam"
+        },
+        "1.1.3": {
+            "releaseUrl": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.3/LogCleaner.dll",
+                    "sha256": "1b123e43008e0f0cbc313b8739d5e0440c05603acb72a80bb85cb705b0dc3283"
+                }
+            ],
+            "changelog": "Removes Cloud variable refresh spam"
+        }
+    }
+}

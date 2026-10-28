@@ -1,0 +1,31 @@
+{
+	"name": "InspectorImprovements",
+	"id": "net.deltawolf.InspectorImprovements",
+	"description": "Adds several configurable improvements to inspectors",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
+	"versions": {
+		"1.0.3": {
+			"releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.3",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.3/InspectorImprovements.dll",
+				"sha256": "386fd383f79f0f6e51c1798d5a12a0c537f1a4db3808c04f9f18ff99efb7e9b7"
+			}],
+			"changelog": "Adds an option to use the header bar as the collapse button with a 'collapseStyle' setting"
+		},
+		"1.0.2": {
+			"releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.2/InspectorImprovements.dll",
+				"sha256": "6407AD92EA449E437FB921723202903582BCAC70DE717A168FA2F9B4E224AAF5"
+			}]
+		},
+		"1.0.0": {
+			"releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
+				"sha256": "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81"
+			}]
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+    "name": "InspectorScroll",
+    "id": "me.art0007i.InspectorScroll",
+    "description": "Allows scrolling inspectors (and other ui panels) using your thumbstick / touchpad",
+    "category": "Controls",
+    "sourceLocation": "https://github.com/art0007i/InspectorScroll",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.0/InspectorScroll.dll",
+                    "filename": "InspectorScroll.dll",
+                    "sha256": "2dbcea4b00f4650c8b06a76d6dfd4636977329ab1e26239dd61187a03848eb24"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.1/InspectorScroll.dll",
+                    "filename": "InspectorScroll.dll",
+                    "sha256": "5276e355becb05e0b78b93b1af83b93b8a3abdbe90794592547b381e26ca5b49"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.2/InspectorScroll.dll",
+                    "sha256": "df53ff50270df446eeba1af7939b3674a8b84dc44613b7cad9a38c3ad4be09e4"
+                }
+            ],
+            "changelog": "Added options to block movement on canvases and scroll with index thumbstick"
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.3/InspectorScroll.dll",
+                    "sha256": "aae6de4c6f72309d6bfae07bb7f9d9176543c132b17b6b3da5cee3b5fcd05a92"
+                }
+            ],
+            "changelog": "Fixed a bug with scrolling in userspace with NoTankControls\nFixed index controller scrolling (maybe)\nAdded option to always scroll"
+        }
+    }
+}

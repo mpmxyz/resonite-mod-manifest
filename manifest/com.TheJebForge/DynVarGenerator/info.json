@@ -1,0 +1,30 @@
+{
+	"name": "DynVarGenerator",
+	"id": "com.TheJebForge.DynVarGenerator",
+	"description": "Adds a wizard to quickly generate huge amounts of dynamic fields/variables/drivers for slots, blend shapes, bones or anything else",
+	"category": "Wizards",
+	"sourceLocation": "https://github.com/TheJebForge/DynVarGenerator",
+	"versions": {
+		"1.3.6": {
+			"releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.6",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.6/DynVarGenerator.dll",
+				"sha256": "7b3b3b0a3053eb4b5f8f7e0854298c744949497da89b7c9fdc076badf8bfe005"
+			}]
+		},
+		"1.3.5": {
+			"releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.5",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.5/DynVarGenerator.dll",
+				"sha256": "f60f3591dfb889a5460489525496b31b7c58ab2811002ccbb0d9de8f16c6f2b6"
+			}]
+		},
+		"1.3.4": {
+			"releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.4/DynVarGenerator.dll",
+				"sha256": "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317"
+			}]
+		}
+	}
+}
